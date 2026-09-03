@@ -1,168 +1,146 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0E27,50:0F3057,100:00C2A8&height=230&section=header&text=Juan%20Esteban%20Mosquera&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Fintech%20%26%20AI-Driven%20Systems&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
-
-<a href="https://github.com/juanes0789">
-  <img src="https://img.shields.io/badge/GitHub-juanes0789-0A0E27?style=for-the-badge&logo=github&logoColor=00C2A8&labelColor=0A0E27" />
-</a>
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00C2A8&labelColor=0A0E27" />
-</a>
-<a href="mailto:juamosque1@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-0A0E27?style=for-the-badge&logo=gmail&logoColor=00C2A8&labelColor=0A0E27" />
-</a>
-<img src="https://img.shields.io/badge/Medell%C3%ADn-Colombia-0A0E27?style=for-the-badge&logo=googlemaps&logoColor=00C2A8&labelColor=0A0E27" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050B18,35:0A1F3D,70:0F4C5C,100:00E5A0&height=260&section=header&text=JUAN%20ESTEBAN%20MOSQUERA&fontSize=38&fontColor=FFFFFF&fontAlignY=34&desc=Full-Stack%20Developer%20crafting%20secure%2C%20scalable%20fintech%20systems&descAlignY=52&descSize=16&descColor=8FE9C9&animation=twinkling" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=00C2A8&center=true&vCenter=true&width=650&lines=Construyendo+plataformas+de+pagos+seguras+y+escalables;Java+%2F+Spring+Boot+%7C+Next.js+%2F+TypeScript+%7C+Python;JWT+%2C+API+Keys+%2C+Arquitectura+en+Capas;Explorando+IA+aplicada+a+productos+financieros" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=00E5A0&center=true&vCenter=true&width=680&separator=%7C&lines=Payments+%7C+Authentication+%7C+Distributed+Systems;Java+%2F+Spring+Boot+%C2%B7+Next.js+%2F+TypeScript+%C2%B7+Python;JWT+%2B+API+Keys+%C2%B7+Arquitectura+en+Capas;IA+aplicada+a+productos+financieros" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://github.com/juanes0789"><img src="https://img.shields.io/badge/GITHUB-050B18?style=flat-square&logo=github&logoColor=00E5A0&labelColor=050B18" height="28"/></a>
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LINKEDIN-050B18?style=flat-square&logo=linkedin&logoColor=00E5A0&labelColor=050B18" height="28"/></a>
+<a href="mailto:juamosque1@gmail.com"><img src="https://img.shields.io/badge/EMAIL-050B18?style=flat-square&logo=gmail&logoColor=00E5A0&labelColor=050B18" height="28"/></a>
+<img src="https://img.shields.io/badge/MEDELL%C3%8DN%2C%20COLOMBIA-050B18?style=flat-square&logo=googlemaps&logoColor=00E5A0&labelColor=050B18" height="28"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:0A1F3D&height=3&section=header" width="100%"/>
 
-### 💳 Sobre mí
+<br/>
 
-Estudiante de Ingeniería de Sistemas (8vo/10 semestres) en la Universidad de Antioquia, enfocado en **desarrollo full-stack orientado a sistemas de pagos y fintech**. Diseño y construyo plataformas end-to-end — desde el backend transaccional hasta la interfaz de usuario — priorizando **seguridad, arquitectura limpia y escalabilidad**.
-
-Experiencia práctica en autenticación dual (JWT + API keys), arquitecturas por capas (dominio / aplicación / infraestructura), integración de pasarelas y checkout embebido, y despliegue containerizado en la nube. También integro **LLM APIs** para construir productos con IA aplicada.
-
-- 🏦 Enfoque actual: **infraestructura de pagos, autenticación y arquitectura de software**
-- 🤖 Explorando: integración de **IA / LLMs** en productos financieros
-- 🎓 Ingeniería de Sistemas — Universidad de Antioquia (2023 – Presente)
-- 🌎 Español (nativo) · Inglés B2+
-
----
-
-### 🧱 Stack tecnológico
+## `01` &nbsp;Perfil
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td width="70%" valign="top">
 
-**⚙️ Backend & APIs**
-<br/>
-<img src="https://img.shields.io/badge/Java-0A0E27?style=for-the-badge&logo=openjdk&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/Spring_Boot-0A0E27?style=for-the-badge&logo=springboot&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/FastAPI-0A0E27?style=for-the-badge&logo=fastapi&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/Node.js-0A0E27?style=for-the-badge&logo=nodedotjs&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/REST_APIs-0A0E27?style=for-the-badge&logo=swagger&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/JWT-0A0E27?style=for-the-badge&logo=jsonwebtokens&logoColor=00C2A8" />
+Estudiante de Ingeniería de Sistemas (8/10 semestres, Universidad de Antioquia) especializado en **desarrollo full-stack para sistemas transaccionales**. Construyo plataformas end-to-end — backend, autenticación y frontend — con foco en seguridad, arquitectura limpia y escalabilidad real.
+
+Experiencia práctica diseñando **autenticación dual** (JWT + API keys), **arquitecturas por capas** (dominio / aplicación / infraestructura) y **checkout embebido**, junto con despliegues containerizados en producción. Integro además **LLM APIs** para llevar IA aplicada a productos reales.
 
 </td>
-<td valign="top" width="50%">
+<td width="30%" valign="top">
 
-**🖥️ Frontend**
-<br/>
-<img src="https://img.shields.io/badge/TypeScript-0A0E27?style=for-the-badge&logo=typescript&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/React-0A0E27?style=for-the-badge&logo=react&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/Next.js-0A0E27?style=for-the-badge&logo=nextdotjs&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/Angular-0A0E27?style=for-the-badge&logo=angular&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/Vue.js-0A0E27?style=for-the-badge&logo=vuedotjs&logoColor=00C2A8" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**🗄️ Bases de datos**
-<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0A0E27?style=for-the-badge&logo=postgresql&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/MySQL-0A0E27?style=for-the-badge&logo=mysql&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/MariaDB-0A0E27?style=for-the-badge&logo=mariadb&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/MongoDB-0A0E27?style=for-the-badge&logo=mongodb&logoColor=00C2A8" />
-
-</td>
-<td valign="top" width="50%">
-
-**☁️ DevOps & Cloud**
-<br/>
-<img src="https://img.shields.io/badge/Docker-0A0E27?style=for-the-badge&logo=docker&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/GitHub_Actions-0A0E27?style=for-the-badge&logo=githubactions&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/Vercel-0A0E27?style=for-the-badge&logo=vercel&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/Render-0A0E27?style=for-the-badge&logo=render&logoColor=00C2A8" />
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="50%">
-
-**🤖 IA & LLM**
-<br/>
-<img src="https://img.shields.io/badge/Claude_API-0A0E27?style=for-the-badge&logo=anthropic&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/LLM_APIs-0A0E27?style=for-the-badge&logo=openai&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/GitHub_Copilot-0A0E27?style=for-the-badge&logo=githubcopilot&logoColor=00C2A8" />
-
-</td>
-<td valign="top" width="50%">
-
-**🛠️ Metodología & Herramientas**
-<br/>
-<img src="https://img.shields.io/badge/Git-0A0E27?style=for-the-badge&logo=git&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/Scrum-0A0E27?style=for-the-badge&logo=scrumalliance&logoColor=00C2A8" />
-<img src="https://img.shields.io/badge/Postman-0A0E27?style=for-the-badge&logo=postman&logoColor=00C2A8" />
+**Enfoque**
+&nbsp;💳&nbsp; Payments & Auth
+&nbsp;🏗️&nbsp; Clean Architecture
+&nbsp;🤖&nbsp; AI-Integrated Products
+&nbsp;☁️&nbsp; Cloud Deployment
 
 </td>
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1F3D,100:00E5A0&height=2&section=header" width="100%"/>
 
-### 💼 Proyectos destacados
+## `02` &nbsp;Stack Tecnológico
+
+<div align="center">
+
+**Backend & APIs**
+<br/>
+<img src="https://skillicons.dev/icons?i=java,spring,fastapi,nodejs,express&theme=dark" />
+
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,vue,js&theme=dark" />
+
+**Bases de Datos**
+<br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mariadb,mongodb&theme=dark" />
+
+**DevOps & Cloud**
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,githubactions,vercel,git,github,linux&theme=dark" />
+
+**IA & Herramientas**
+<br/>
+<img src="https://img.shields.io/badge/Claude_API-050B18?style=flat-square&logo=anthropic&logoColor=00E5A0&labelColor=050B18" height="28"/>
+<img src="https://img.shields.io/badge/LLM_APIs-050B18?style=flat-square&logo=openai&logoColor=00E5A0&labelColor=050B18" height="28"/>
+<img src="https://img.shields.io/badge/Copilot-050B18?style=flat-square&logo=githubcopilot&logoColor=00E5A0&labelColor=050B18" height="28"/>
+<img src="https://img.shields.io/badge/Swagger-050B18?style=flat-square&logo=swagger&logoColor=00E5A0&labelColor=050B18" height="28"/>
+<img src="https://img.shields.io/badge/Postman-050B18?style=flat-square&logo=postman&logoColor=00E5A0&labelColor=050B18" height="28"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:0A1F3D&height=2&section=header" width="100%"/>
+
+## `03` &nbsp;Proyectos Destacados
 
 <table>
 <tr>
 <td width="100%">
 
-#### 🏦 Embedded Payments — Plataforma de pagos
-[![Ver proyecto](https://img.shields.io/badge/Live_Demo-00C2A8?style=for-the-badge&logo=vercel&logoColor=0A0E27)](https://embedded-payments1.vercel.app/)
+### 🏦 &nbsp;Embedded Payments
+<sub>Plataforma de pagos — proyecto insignia</sub>
 
-Plataforma de pagos full-stack con Java Spring Boot + Vue 3: gestión de comercios, payment intents, transacciones y reembolsos.
+[![Live](https://img.shields.io/badge/LIVE_DEMO-00E5A0?style=flat-square&logo=vercel&logoColor=050B18&labelColor=00E5A0)](https://embedded-payments1.vercel.app/)
+
+Plataforma de pagos full-stack con **Java Spring Boot + Vue 3**: gestión de comercios, payment intents, transacciones y reembolsos.
+
 - 🔐 Autenticación dual — JWT para usuarios, API keys para integraciones de comercio, con control de acceso por roles
-- 🧱 Arquitectura en capas (dominio / aplicación / infraestructura) para mantener la lógica de negocio independiente del framework
+- 🧱 Arquitectura en capas (dominio · aplicación · infraestructura), lógica de negocio desacoplada del framework
 - 🧾 Checkout embebido documentado con Swagger para integración externa
 
 `Java` `Spring Boot` `Vue 3` `JWT` `Swagger`
 
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-#### 🎙️ VoiceFlowAI — Tutor de inglés con IA de voz
-[![Ver proyecto](https://img.shields.io/badge/Live_Demo-00C2A8?style=for-the-badge&logo=vercel&logoColor=0A0E27)](https://voice-flow-ai-learning.vercel.app/)
+### 🎙️ VoiceFlowAI
+<sub>Tutor de inglés con IA de voz — solo dev</sub>
 
-Plataforma de IA de voz end-to-end, diseñada, construida y desplegada en solitario, para práctica de fluidez en inglés.
-- 🧠 LLM APIs para conversación multi-turno + ElevenLabs TTS multi-acento (US/UK/AU)
-- 🐳 Backend containerizado con Docker en Render, frontend en Vercel, con flujo CI-friendly
-- 🎧 Modos de conversación (entrevista, viajes, casual, tecnología) con reconocimiento de voz en el navegador
+[![Live](https://img.shields.io/badge/LIVE_DEMO-00E5A0?style=flat-square&logo=vercel&logoColor=050B18&labelColor=00E5A0)](https://voice-flow-ai-learning.vercel.app/)
 
-`Next.js` `TypeScript` `FastAPI` `Python` `Docker` `LLM APIs`
+Plataforma de IA de voz end-to-end diseñada, construida y desplegada en solitario.
+
+- 🧠 LLM APIs multi-turno + ElevenLabs TTS multi-acento
+- 🐳 Docker en Render, frontend en Vercel, flujo CI-friendly
+- 🎧 4 modos de conversación con reconocimiento de voz en navegador
+
+`Next.js` `TypeScript` `FastAPI` `Docker`
 
 </td>
-</tr>
-<tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-#### 🎓 UdeA Innova — Plataforma académica
-[![Ver proyecto](https://img.shields.io/badge/Live_Demo-00C2A8?style=for-the-badge&logo=vercel&logoColor=0A0E27)](https://app-udea-innovafrontend.vercel.app/)
+### 🎓 UdeA Innova
+<sub>Plataforma académica — trabajo en equipo</sub>
 
-Aplicación web multi-pantalla con landing, autenticación, dashboards y vistas por rol, desarrollada en equipo multidisciplinario.
-- 🧩 Componentes React reutilizables con arquitectura modular y escalable
+[![Live](https://img.shields.io/badge/LIVE_DEMO-00E5A0?style=flat-square&logo=vercel&logoColor=050B18&labelColor=00E5A0)](https://app-udea-innovafrontend.vercel.app/)
+
+App multi-pantalla: landing, autenticación, dashboards y vistas por rol.
+
+- 🧩 Componentes React reutilizables, arquitectura modular
 - 🔗 Integración con APIs RESTful y Node.js
-- 👥 Flujo colaborativo con GitHub (ramas, PRs, control de versiones)
+- 👥 Flujo colaborativo con GitHub (ramas, PRs)
 
 `React` `Node.js` `REST APIs`
 
 </td>
 </tr>
 <tr>
-<td width="100%">
+<td colspan="2">
 
-#### 🏛️ Banking Simulation Platform
-Aplicación web de gestión bancaria desarrollada bajo metodología Scrum.
-- ☕ Backend en Java para lógica de negocio y manejo de peticiones HTTP, con MariaDB para operaciones CRUD
-- ⚛️ Frontend dinámico en React/JavaScript con integración end-to-end
+### 🏛️ Banking Simulation Platform
+<sub>Metodología Scrum</sub>
+
+Aplicación de gestión bancaria — backend en Java para lógica de negocio y peticiones HTTP integrando MariaDB para operaciones CRUD, con frontend dinámico en React/JavaScript e integración end-to-end.
 
 `Java` `React` `MariaDB` `Scrum`
 
@@ -170,51 +148,47 @@ Aplicación web de gestión bancaria desarrollada bajo metodología Scrum.
 </tr>
 </table>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A1F3D,100:00E5A0&height=2&section=header" width="100%"/>
 
-### 📊 Estadísticas de GitHub
+## `04` &nbsp;GitHub Analytics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=juanes0789&show_icons=true&theme=react&bg_color=0A0E27&title_color=00C2A8&icon_color=00C2A8&text_color=ffffff&border_color=0F3057&hide_border=false" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanes0789&layout=compact&theme=react&bg_color=0A0E27&title_color=00C2A8&text_color=ffffff&border_color=0F3057&hide_border=false" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=juanes0789&show_icons=true&theme=react&bg_color=050B18&title_color=00E5A0&icon_color=00E5A0&text_color=C7D6E5&border_color=0A1F3D&hide_border=false&rank_icon=percentile" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juanes0789&layout=compact&theme=react&bg_color=050B18&title_color=00E5A0&text_color=C7D6E5&border_color=0A1F3D&hide_border=false" />
 
-<br/>
+<img src="https://streak-stats.demolab.com/?user=juanes0789&theme=react&background=050B18&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=C7D6E5&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8FA6BE&border=0A1F3D&hide_border=false" />
 
-<img src="https://streak-stats.demolab.com/?user=juanes0789&theme=react&background=0A0E27&ring=00C2A8&fire=00C2A8&currStreakLabel=00C2A8&border=0F3057&hide_border=false" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=juanes0789&theme=react-dark&bg_color=050B18&color=00E5A0&line=00E5A0&point=FFFFFF&area=true&area_color=0A1F3D&hide_border=true" width="95%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00E5A0,100:0A1F3D&height=2&section=header" width="100%"/>
 
-### 🌱 Actualmente
+## `05` &nbsp;Actualmente
 
-- 🏗️ **Construyendo:** productos full-stack con foco en pagos, autenticación segura y arquitectura por capas
-- 🤖 **Integrando:** IA / LLMs (Claude API) en flujos de producto reales
-- 📚 **Aprendiendo:** patrones avanzados de arquitectura de software y despliegue en la nube
-- 🤝 **Abierto a colaborar en:** proyectos fintech, sistemas de pagos, APIs seguras y productos con IA aplicada
-- 💬 **Pregúntame sobre:** Spring Boot, Next.js, FastAPI, JWT/autenticación o integración de LLM APIs
+<table>
+<tr><td>🏗️</td><td><b>Construyendo</b></td><td>productos full-stack enfocados en pagos, autenticación segura y arquitectura por capas</td></tr>
+<tr><td>🤖</td><td><b>Integrando</b></td><td>IA / LLMs (Claude API) en flujos de producto reales</td></tr>
+<tr><td>📚</td><td><b>Aprendiendo</b></td><td>patrones avanzados de arquitectura de software y despliegue en la nube</td></tr>
+<tr><td>🤝</td><td><b>Abierto a</b></td><td>colaborar en proyectos fintech, sistemas de pagos y productos con IA aplicada</td></tr>
+<tr><td>💬</td><td><b>Pregúntame</b></td><td>sobre Spring Boot, Next.js, FastAPI, JWT/autenticación o integración de LLM APIs</td></tr>
+</table>
 
----
-
-### 📫 Conectemos
+<br/>
 
 <div align="center">
 
-<a href="https://www.linkedin.com/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A0E27?style=for-the-badge&logo=linkedin&logoColor=00C2A8" />
-</a>
-<a href="mailto:juamosque1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-0A0E27?style=for-the-badge&logo=gmail&logoColor=00C2A8" />
-</a>
-<a href="https://github.com/juanes0789">
-  <img src="https://img.shields.io/badge/GitHub-0A0E27?style=for-the-badge&logo=github&logoColor=00C2A8" />
-</a>
+### 📫 Conectemos
+
+<a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/LinkedIn-050B18?style=for-the-badge&logo=linkedin&logoColor=00E5A0&labelColor=050B18" /></a>
+<a href="mailto:juamosque1@gmail.com"><img src="https://img.shields.io/badge/Gmail-050B18?style=for-the-badge&logo=gmail&logoColor=00E5A0&labelColor=050B18" /></a>
+<a href="https://github.com/juanes0789"><img src="https://img.shields.io/badge/GitHub-050B18?style=for-the-badge&logo=github&logoColor=00E5A0&labelColor=050B18" /></a>
 
 <br/><br/>
 
-*🚀 Construyendo el futuro de los pagos digitales, una línea de código a la vez.*
+<i>Construyendo el futuro de los pagos digitales, una línea de código a la vez.</i>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2A8,50:0F3057,100:0A0E27&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5A0,35:0F4C5C,70:0A1F3D,100:050B18&height=150&section=footer" width="100%"/>
 
 </div>
