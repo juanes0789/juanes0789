@@ -50,7 +50,7 @@ Experiencia práctica diseñando **autenticación dual** (JWT + API keys), **arq
 
 **Backend & APIs**
 <br/>
-<img src="https://skillicons.dev/icons?i=java,spring,fastapi,nodejs,express&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,fastapi,nodejs,express,golang&theme=dark" />
 
 **Frontend**
 <br/>
